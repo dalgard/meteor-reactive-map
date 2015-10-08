@@ -10,6 +10,7 @@ Package.onUse(function (api) {
   api.versionsFrom("METEOR@1.2.0.2");
 
   api.use([
+    "ecmascript",
     "check",
     "tracker",
     "stevezhu:lodash@3.10.1"
