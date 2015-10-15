@@ -1,5 +1,7 @@
+### \*\*Deprecated – moved to [`nordlys:reactive-map`](https://github.com/nordlys-io/meteor-reactive-map)\*\*
+
 dalgard:reactive-map 0.1.0
-=======================
+==========================
 
 ReactiveDict without the JSON.
 
