@@ -2,7 +2,7 @@ Package.describe({
   name: "nordlys:reactive-map",
   version: "0.1.0",
   summary: "ReactiveDict without the JSON",
-  git: "https://github.com/nordlys-io/meteor-reactive-map",
+  git: "https://github.com/nordlys/meteor-reactive-map",
   documentation: "README.md"
 });
 
