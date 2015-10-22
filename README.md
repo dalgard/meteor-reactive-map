@@ -1,4 +1,4 @@
-nordlys:reactive-map 0.1.0
+dalgard:reactive-map 0.1.0
 ==========================
 
 ReactiveDict without the JSON.
